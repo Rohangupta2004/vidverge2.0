@@ -82,16 +82,6 @@
       "component": "apps/CineAgent/App.tsx"
     },
     {
-      "id": "health",
-      "name": "Health",
-      "description": "Owner monitoring for crashes, provider failures, quality and refunds.",
-      "icon": "Activity",
-      "component": "apps/Health/App.tsx",
-      "allowedRoles": [
-        "owner"
-      ]
-    },
-    {
       "id": "pricing",
       "name": "Pricing",
       "description": "Vidverge pricing: pay-per-use credit packs.",
