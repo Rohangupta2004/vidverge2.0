@@ -40,6 +40,13 @@
       "component": "apps/ScriptToVideo/App.tsx"
     },
     {
+      "id": "s2v2",
+      "name": "S2V 2.0",
+      "description": "Script-to-Video 2.0: every shot directed for clean, realistic motion, locked characters with drawn start frames, and each clip checked for warping as it lands. Same pipeline and library as Script-to-Video.",
+      "icon": "Tv",
+      "component": "apps/S2V2/App.tsx"
+    },
+    {
       "id": "sceneforge",
       "name": "SceneForge",
       "description": "Presenter, avatar and explanatory-video production with premade ElevenLabs voice selection and resumable rendering.",
