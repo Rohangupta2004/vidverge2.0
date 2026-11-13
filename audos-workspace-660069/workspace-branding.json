@@ -1,0 +1,154 @@
+{
+  "workspaceId": "f24710e5-7c6d-4db4-92b4-c2c235877575",
+  "configId": 660069,
+  "seo": {
+    "title": "Vidverge — AI Video Generator | Brief to Video in One Shot",
+    "description": "Drop a URL, script, idea or raw footage and let Verger plan the path to a publish-ready video.",
+    "imageUrl": "https://storage.googleapis.com/audos-images/generated-images/image-1791994146120-6y0ebr.png"
+  },
+  "name": "Vidverge",
+  "tagline": "Turn any idea into a publish-ready video — brief to video in one shot",
+  "logoUrl": "https://storage.googleapis.com/audos-images/chat-attachments/8a9adad1-ad34-40e6-823c-8195cdcf7d6c.png",
+  "iconUrl": "https://storage.googleapis.com/audos-images/chat-attachments/8a9adad1-ad34-40e6-823c-8195cdcf7d6c.png",
+  "logoOnDarkUrl": "https://storage.googleapis.com/audos-images/attachments/general/c0902809-6dc4-4e0c-b04e-1f60e01b31e6.png",
+  "colors": {
+    "primary": "#f2c14a",
+    "highlight": "#f2c14a",
+    "contrast": "#000000",
+    "secondary": "#b9820f",
+    "accent": "#f2c14a",
+    "primaryScale": {
+      "50": "#2a2110",
+      "100": "#2a2110",
+      "200": "#f2c14a",
+      "500": "#f2c14a",
+      "600": "#f6cd62",
+      "700": "#f2c14a",
+      "900": "#7d5a0c"
+    },
+    "highlightScale": {
+      "50": "#2a2110",
+      "100": "#2a2110",
+      "200": "#f2c14a",
+      "500": "#f6cd62",
+      "600": "#f2c14a",
+      "700": "#f2c14a",
+      "900": "#f2c14a"
+    },
+    "surfaces": {
+      "page": "#000000",
+      "pageAlt": "#0f0c08",
+      "gradientFrom": "#000000",
+      "gradientVia": "#0a0806",
+      "gradientTo": "#0f0c08",
+      "card": "#0f0c08",
+      "cardHover": "#1f1a10",
+      "panel": "#0f0c08",
+      "panelStrong": "#17130c",
+      "muted": "#17130c",
+      "accentSoft": "#2a2110",
+      "border": "#2a2416",
+      "borderStrong": "#4a4024"
+    },
+    "text": {
+      "primary": "#fbf4e2",
+      "secondary": "#cfc3a6",
+      "brand": "#f2c14a",
+      "accent": "#f2c14a",
+      "muted": "#8e856d",
+      "onPrimary": "#000000",
+      "onHighlight": "#000000",
+      "onContrast": "#f2c14a"
+    },
+    "semantic": {
+      "success": "#35c9b4",
+      "warning": "#ff7d45",
+      "danger": "#ff6b6b"
+    },
+    "shell": {
+      "buttonText": "#000000",
+      "accentButtonText": "#000000",
+      "dockText": "#ffffff",
+      "icon": "#f2c14a",
+      "shadow": "#000000",
+      "shadowStrong": "#000000"
+    }
+  },
+  "palette": {
+    "primary": "#f2c14a",
+    "highlight": "#f2c14a",
+    "contrast": "#000000",
+    "secondary": "#b9820f",
+    "accent": "#f2c14a",
+    "primaryScale": {
+      "50": "#2a2110",
+      "100": "#2a2110",
+      "200": "#f2c14a",
+      "500": "#f2c14a",
+      "600": "#f6cd62",
+      "700": "#f2c14a",
+      "900": "#7d5a0c"
+    },
+    "highlightScale": {
+      "50": "#2a2110",
+      "100": "#2a2110",
+      "200": "#f2c14a",
+      "500": "#f6cd62",
+      "600": "#f2c14a",
+      "700": "#f2c14a",
+      "900": "#f2c14a"
+    },
+    "surfaces": {
+      "page": "#000000",
+      "pageAlt": "#0f0c08",
+      "gradientFrom": "#000000",
+      "gradientVia": "#0a0806",
+      "gradientTo": "#0f0c08",
+      "card": "#0f0c08",
+      "cardHover": "#1f1a10",
+      "panel": "#0f0c08",
+      "panelStrong": "#17130c",
+      "muted": "#17130c",
+      "accentSoft": "#2a2110",
+      "border": "#2a2416",
+      "borderStrong": "#4a4024"
+    },
+    "text": {
+      "primary": "#fbf4e2",
+      "secondary": "#cfc3a6",
+      "brand": "#f2c14a",
+      "accent": "#f2c14a",
+      "muted": "#8e856d",
+      "onPrimary": "#000000",
+      "onHighlight": "#000000",
+      "onContrast": "#f2c14a"
+    },
+    "semantic": {
+      "success": "#35c9b4",
+      "warning": "#ff7d45",
+      "danger": "#ff6b6b"
+    },
+    "shell": {
+      "buttonText": "#000000",
+      "accentButtonText": "#000000",
+      "dockText": "#ffffff",
+      "icon": "#f2c14a",
+      "shadow": "#000000",
+      "shadowStrong": "#000000"
+    }
+  },
+  "typography": {
+    "font": "Geist",
+    "category": "sans-serif",
+    "weights": [
+      400,
+      500,
+      600,
+      700,
+      800
+    ],
+    "headingFont": "Bricolage Grotesque",
+    "bodyFont": "Geist"
+  },
+  "heroVideoUrl": "https://storage.googleapis.com/audos-images/videos/scene_group_1793725812621_stitched.mp4"
+}
